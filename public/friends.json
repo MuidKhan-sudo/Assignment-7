@@ -6,7 +6,8 @@
       "email": "arif.hossain@gmail.com",
       "days_since_contact": 18,
       "status": "overdue",
-      "tags": ["university", "football"],
+      "tags": ["football"],
+      "hobby": "playing local tournaments",
       "bio": "Studied BBA together. Regular football partner during weekends.",
       "goal": 14,
       "next_due_date": "2026-04-10"
@@ -18,7 +19,8 @@
       "email": "nusrat.jahan@yahoo.com",
       "days_since_contact": 12,
       "status": "almost due",
-      "tags": ["college", "debate club"],
+      "tags": ["debate"],
+      "hobby": "public speaking",
       "bio": "Met during college debate competitions. Still shares interesting articles.",
       "goal": 14,
       "next_due_date": "2026-04-19"
@@ -30,7 +32,8 @@
       "email": "tanvir.dev@gmail.com",
       "days_since_contact": 5,
       "status": "on-track",
-      "tags": ["coding", "project partner"],
+      "tags": ["coding"],
+      "hobby": "building side projects",
       "bio": "Worked on multiple React projects together. Always up for hackathons.",
       "goal": 14,
       "next_due_date": "2026-04-26"
@@ -42,7 +45,8 @@
       "email": "sadia.rahman@gmail.com",
       "days_since_contact": 20,
       "status": "overdue",
-      "tags": ["school", "art"],
+      "tags": ["art"],
+      "hobby": "digital illustration",
       "bio": "Old school friend who is now a freelance illustrator.",
       "goal": 14,
       "next_due_date": "2026-04-07"
@@ -54,7 +58,8 @@
       "email": "mehedi.hasan@outlook.com",
       "days_since_contact": 13,
       "status": "almost due",
-      "tags": ["gym", "fitness"],
+      "tags": ["fitness"],
+      "hobby": "weight training",
       "bio": "Gym buddy who keeps pushing me to stay consistent with workouts.",
       "goal": 14,
       "next_due_date": "2026-04-18"
@@ -66,7 +71,8 @@
       "email": "farzana.karim@gmail.com",
       "days_since_contact": 3,
       "status": "on-track",
-      "tags": ["office", "marketing"],
+      "tags": ["marketing"],
+      "hobby": "content writing",
       "bio": "Colleague from internship. Great at marketing strategy discussions.",
       "goal": 14,
       "next_due_date": "2026-04-28"
@@ -78,7 +84,8 @@
       "email": "rakib.chy@gmail.com",
       "days_since_contact": 16,
       "status": "overdue",
-      "tags": ["gaming", "school"],
+      "tags": ["gaming"],
+      "hobby": "online multiplayer games",
       "bio": "Used to play multiplayer games every night during school days.",
       "goal": 14,
       "next_due_date": "2026-04-12"
@@ -90,7 +97,8 @@
       "email": "tanjina.akter@gmail.com",
       "days_since_contact": 10,
       "status": "on-track",
-      "tags": ["volunteering", "ngo"],
+      "tags": ["volunteering"],
+      "hobby": "community service",
       "bio": "Met through volunteering work. Passionate about community development.",
       "goal": 14,
       "next_due_date": "2026-04-21"
@@ -102,7 +110,8 @@
       "email": "imran.kabir@gmail.com",
       "days_since_contact": 14,
       "status": "almost due",
-      "tags": ["travel", "photography"],
+      "tags": ["travel"],
+      "hobby": "photography",
       "bio": "Travel partner who loves capturing landscapes and street photography.",
       "goal": 14,
       "next_due_date": "2026-04-17"
